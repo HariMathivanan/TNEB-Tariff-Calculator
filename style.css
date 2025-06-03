@@ -1,0 +1,39 @@
+*{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    
+    
+}
+
+.container {
+  width: 300px;
+  padding: 30px;
+  border: 4px solid #ccc;
+  margin: 20px auto;
+  text-align: center;
+  
+}
+button {
+  margin-top: 25px;
+  background-color: #fd0769;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  cursor: pointer;
+  border-radius: 25px;
+}
+
+.split{
+    margin-top: 200px;
+    
+   
+}
+h2{
+    color: azure;
+    
+}
+p{
+    color: #fd0769;
+    
+}
