@@ -1,2 +1,3 @@
 # TNEB-Tariff-Calculator
-TNEB Calculator 2025 with updated tariff.
+** Note This is not official calculator. This was made for personal purpose **
+TNEB Calculator 2026 with updated tariff.
